@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="xiala" unicode="&#58930;" d="M560.64-61.952c-13.824-13.824-32.256-26.112-50.176-23.04-17.92-3.072-34.304 10.752-48.128 23.04L37.888 363.52c-22.016 22.016-22.016 56.32 0 78.336s56.32 22.016 78.336 0l394.752-405.504 396.288 404.992c22.016 22.016 56.32 22.016 78.336 0s22.016-56.32 0-78.336l-424.96-424.96zM560.64 332.8c-13.824-13.824-32.256-26.112-50.176-23.04-17.92-3.072-34.304 10.752-48.128 23.04L37.888 758.272c-22.016 22.016-22.016 56.32 0 78.336s56.32 22.016 78.336 0l394.752-405.504L907.264 836.096c22.016 22.016 56.32 22.016 78.336 0s22.016-56.32 0-78.336L560.64 332.8z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
